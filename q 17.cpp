@@ -7,11 +7,11 @@ int main() {
     scanf("%d", &num);
 
     if (num == 0)
-        count = 1;  // Special case  0 r
+        count = 1;  
     else {
         while (num != 0) {
-            num /= 10;  //  last digit tu ootorai 
-            count++;    // Increment ( oxomia word tu najanu)
+            num /= 10;   
+            count++;    
         }
     }
 
