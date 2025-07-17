@@ -10,8 +10,7 @@ int main() {
         printf("Leap year.\n");
     else
         printf("Not a leap year.\n");
-        // logic tu hol jodi 4 di divide jai tene leap year
-
+        
     return 0;
 }
 
