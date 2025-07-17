@@ -3,13 +3,13 @@
 int main() {
     int a, b;
 
-    printf("Enter two numbers: ");//duta nummber dilu
+    printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);
 
     if (a > b)
         printf("%d is larger.\n", a);
     else
-        printf("%d is larger.\n", b);//if else use kri kuntu dangor ulalu
+        printf("%d is larger.\n", b);
 
     return 0;
 }
