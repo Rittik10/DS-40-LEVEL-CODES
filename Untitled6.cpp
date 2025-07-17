@@ -10,7 +10,7 @@ int main() {
         printf("Even number.\n");
     else
         printf("Odd number.\n");
-// logic tu hol  divisivle by 2 hoi ne nhoi
-    return 0;
+
+   return 0;
 }
 
