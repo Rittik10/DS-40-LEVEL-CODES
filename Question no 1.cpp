@@ -1,7 +1,7 @@
-#include <stdio.h>  // Header ata disu
+#include <stdio.h>  
 
 int main() {
-    printf("Hello, World!\n");  // Print function tuu use krisu
-    return 0;  // Execute krisu function tu
+    printf("Hello, World!\n");  
+    return 0;  
 }
 
